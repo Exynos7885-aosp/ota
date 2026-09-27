@@ -1,0 +1,18 @@
+[
+    {
+        "datetime": 1790538455,
+        "type": "unofficial",
+        "version": "24.0",
+        "ota_signing_cert_sha256": "e417060c1bcfc14248b05242e77da094ccd5c6388f233b0f43c3b8fa9bc5dbfb",
+        "files": [
+            {
+                "filename": "lineage-24.0-20260927-UNOFFICIAL-a40.zip",
+                "sha256": "bab259ebfa95eb1dead1ec7b187b1a6ecf13871eca3c8f6944f63f8de0441646",
+                "size": 930271180,
+                "url": "https://github.com/Exynos7885-aosp/ota/releases/download/a40-20260927-194735/lineage-24.0-20260927-UNOFFICIAL-a40.zip",
+                "os_sdk_level": 37,
+                "os_patch_level": "2026-09-01"
+            }
+        ]
+    }
+]
