@@ -1,0 +1,18 @@
+[
+    {
+        "datetime": 1790792160,
+        "type": "unofficial",
+        "version": "24.0",
+        "ota_signing_cert_sha256": "e417060c1bcfc14248b05242e77da094ccd5c6388f233b0f43c3b8fa9bc5dbfb",
+        "files": [
+            {
+                "filename": "lineage-24.0-20260930-UNOFFICIAL-jackpotlte.zip",
+                "sha256": "b2616720f48c4697daaea3d1426082b27ee59a0edbd9a51b95ecc0f081f1ccdd",
+                "size": 912856403,
+                "url": "https://github.com/Exynos7885-aosp/ota/releases/download/jackpotlte-20260930-181600/lineage-24.0-20260930-UNOFFICIAL-jackpotlte.zip",
+                "os_sdk_level": 37,
+                "os_patch_level": "2026-09-01"
+            }
+        ]
+    }
+]
