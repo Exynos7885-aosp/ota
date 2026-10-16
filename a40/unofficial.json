@@ -1,17 +1,17 @@
 [
     {
-        "datetime": 1790538455,
+        "datetime": 1791926235,
         "type": "unofficial",
         "version": "24.0",
         "ota_signing_cert_sha256": "e417060c1bcfc14248b05242e77da094ccd5c6388f233b0f43c3b8fa9bc5dbfb",
         "files": [
             {
-                "filename": "lineage-24.0-20260927-UNOFFICIAL-a40.zip",
-                "sha256": "bab259ebfa95eb1dead1ec7b187b1a6ecf13871eca3c8f6944f63f8de0441646",
-                "size": 930271180,
-                "url": "https://github.com/Exynos7885-aosp/ota/releases/download/a40-20260927-194735/lineage-24.0-20260927-UNOFFICIAL-a40.zip",
+                "filename": "lineage-24.0-20261013-UNOFFICIAL-a40.zip",
+                "sha256": "a85de6b63f9085fa584cd53f2a98ce923aafdad7945a5e118e204a44876bc98c",
+                "size": 912842953,
+                "url": "https://github.com/Exynos7885-aosp/ota/releases/download/a40-20261013-211715/lineage-24.0-20261013-UNOFFICIAL-a40.zip",
                 "os_sdk_level": 37,
-                "os_patch_level": "2026-09-01"
+                "os_patch_level": "2026-10-01"
             }
         ]
     }
